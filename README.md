@@ -46,19 +46,33 @@
 ####[[↑]](#toc) <a name='general'>通用问题:</a>
 
 * 语言设计中空引用([null reference](http://programmers.stackexchange.com/questions/12777/are-null-references-really-a-bad-thing))的存在有什么问题？假设你想要将空引用的概念从你的首选语言中移除，可能导致什么结果？
+  - 回答：空指针异常的调试难度更加复杂
 * 为什么函数式编程重要？什么时候适用函数式语言？
+
 * 设计(design)、架构(architecture)、功能(functionality)和美学(aesthetic)之间有什么区别？讨论一下。
+
 * 微软、谷歌、欧朋(opera)和火狐这类公司是如何从他们的浏览器中获利的？
+
 * 为什么打开TCP套接字有很大的开销？
+
 * 封装的重要性体现在哪儿？
+
 * 什么是实时系统？它与普通系统有什么区别？
+
 * 实时语言(real-time language)和堆内存分配(heap memory allocation)之间的关系是什么？
+
 * 不变性(Immutability)是指: (变量的)值只能在创建的时候被设置一次，之后就不能被改变。为什么不变性对写更加安全的代码有帮助？
+
 * 可变值(mutable values)和不可变值(immutable values)有哪些优缺点？
+
 * 什么是O/R阻抗失衡(Object-Relational impedence mismatch)？
+
 * 如果你需要使用缓存，你使用哪些原则来确定缓存的大小？
+
 * TCP和HTTP有什么区别？
+
 * 在客户端渲染(client-side rendering)和服务端渲染(server-side rendering)之间，你是如何权衡的？
+
 * 如何在一个不可靠的协议之上构建一个可靠的通信协议？
 
 ####[[↑]](#toc) <a name='open'>开放式问题:</a>
